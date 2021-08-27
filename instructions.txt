@@ -1,6 +1,6 @@
 DISCLAIMER - This is for educational purposes and not intended to be used for malicious activity.
 
-1 Replace the username and password variables in the main.py file with your username and pass that u used for 10 Fast fingers.com
+1 Replace the email and password variables in the main.py file with your email and pass that u used for 10 Fast fingers.com
 
 2 make sure to pip intall selenium..
 3 run the script on a desktop/laptop only..
